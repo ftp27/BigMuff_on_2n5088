@@ -35,4 +35,4 @@ frequency response.
 * 2n5008	- 4
 
 ### Diodes
-* KT4102Em	- 4
+* KT3102EM	- 4
