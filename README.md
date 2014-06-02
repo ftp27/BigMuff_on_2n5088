@@ -8,7 +8,7 @@ frequency response.
 
 ## Elements list
 
-### Polysestr film capacitors
+### Polyester film capacitors
 * 0.01 uF 	- 1
 * 0.1 uF	- 7
 * 0.15 uF	- 1
